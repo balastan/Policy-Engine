@@ -1,0 +1,34 @@
+{
+	"user_permissions": {
+		"auth0|5ed9e1973f9b910d721bf7cd": {
+			"group": {
+				"member": [
+					"1", "2"
+				],
+				"admin": [
+					"3"
+				]
+			}
+		},
+		"auth0|999000": {
+			"group": {
+				"member": [
+					"1"
+				],
+				"admin": [
+					"3"
+				]
+			}
+		},
+		"auth0|109": {
+			"group": {
+				"member": [
+					
+				],
+				"admin": [
+					"1", "2"
+				]
+			}
+		}
+	}
+}
